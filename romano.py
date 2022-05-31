@@ -6,16 +6,14 @@ Restricciones:
 - no es mayor que 3999
 
 Resultado es una cadena que contiene (I,V,X,L,C,D,M)
-
-"""
 return "test"
 
 print (convertir_en_romano(33))
 
 """
-1.validar una entrada: 
-1.1 Si es valido lo vonvierto
-1.2 S no es valido; es un error
+#1.validar una entrada: 
+# 1.1 Si es valido lo vonvierto
+# 1.2 S no es valido; es un error
 
 
 """
